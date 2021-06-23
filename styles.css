@@ -1,0 +1,17 @@
+.card-album{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(251, 251, 103);
+    
+}
+#general-ul{
+    width: 500px;
+}
+.card-album li{
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+}
